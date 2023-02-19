@@ -1,2 +1,2 @@
 # WebstieDesignSystem
-Codecademy Off-platform Project
+Codecademy Challenge Project
